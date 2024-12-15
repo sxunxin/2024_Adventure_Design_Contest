@@ -1,1 +1,1 @@
-# 2024-Adventure-Design-Contest
+# 2024_Adventure_Design_Contest
