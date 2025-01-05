@@ -9,3 +9,4 @@ An Arduino-based water dispenser system that automatically fills a cup by consid
 - **AutomaticWaterDispenser.ino**: Arduino source code
 - **Contest_Report.pdf**: Report submitted for the contest
 - **Award_Certificate.jpg**: Photo of the certificate received for Honorable Mention
+
