@@ -16,5 +16,5 @@
 ## 파일 설명
 - **AutomaticWaterDispenser.ino**: 아두이노 소스 코드
 - **Contest_Report.pdf**: 대회 제출용 프로젝트 리포트
-- **Award_Certificate.jpg**: 장려상 수상 인증서 이미지
+- **Award_Certificate.jpg**: 장려상 상장 이미지
 
